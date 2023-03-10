@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Essential.cpp
+C:\Users\marin\OneDrive\Scoala\Geografie\Mihai Malos\An 1, Sem 1\info\af\Data Censoring\Data Censoring\Project1\Essential.cpp(69,158): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\marin\OneDrive\Scoala\Geografie\Mihai Malos\An 1, Sem 1\info\af\Data Censoring\Data Censoring\Project1\Essential.cpp(74,168): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\marin\OneDrive\Scoala\Geografie\Mihai Malos\An 1, Sem 1\info\af\Data Censoring\Data Censoring\x64\Debug\Cenzurarea Datelor.exe
